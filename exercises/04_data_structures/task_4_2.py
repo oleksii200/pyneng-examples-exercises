@@ -17,4 +17,3 @@
 mac = "AAAA:BBBB:CCCC"
 mac_f = mac.replace(':','.')
 print (mac_f)
-
